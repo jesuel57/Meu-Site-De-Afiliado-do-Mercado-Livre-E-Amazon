@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Meu Site de Afiliados</title>
+  <title>Laços De Quatro Patas.   </title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
     header { background: #333; color: #fff; padding: 15px; text-align: center; }
