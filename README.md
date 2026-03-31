@@ -16,7 +16,7 @@
 </head>
 <body>
   <header>
-    <h1>Meu Site de Afiliados</h1>
+  
     <nav>
       <a href="#inicio">Início</a>
       <a href="#sobre">Sobre</a>
